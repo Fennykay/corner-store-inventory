@@ -1,0 +1,17 @@
+﻿  Assignment6.cpp
+C:\Users\Kenny\source\repos\Assignment6\Assignment6.cpp(143,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyImport_ImportModule
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_Py_BuildValue
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_Py_Finalize
+Assignment6.obj : error LNK2001: unresolved external symbol __imp__Py_Dealloc
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_Py_Initialize
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyModule_GetDict
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyObject_GetAttrString
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyDict_GetItemString
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyObject_CallObject
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyImport_Import
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyCallable_Check
+Assignment6.obj : error LNK2001: unresolved external symbol __imp__PyLong_AsInt
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyErr_Print
+Assignment6.obj : error LNK2001: unresolved external symbol __imp_PyUnicode_FromString
+C:\Users\Kenny\source\repos\Assignment6\x64\Release\Assignment6.exe : fatal error LNK1120: 14 unresolved externals
